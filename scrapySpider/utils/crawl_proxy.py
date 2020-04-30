@@ -1,4 +1,6 @@
+# -*- coding: utf-8 -*-
 import re, subprocess as sp, time, json
+
 
 from urllib import request
 from bs4 import BeautifulSoup

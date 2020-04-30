@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # 最大线程数
